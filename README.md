@@ -17,9 +17,9 @@ This repository serves as a showcase of my work across different domains, includ
 
 ## Technologies Used
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Programming Languages**: Python, SQL, JavaScript, HTML, CSS
 - **Libraries & Frameworks**: Pandas, Flask, React, Bootstrap
-- **Tools**: Google BigQuery, VS Code, Git
+- **Tools**: Google BigQuery, AWS Athena, VS Code, Git
 - **Concepts**: Data Visualization, Responsive Design, REST APIs
 
 ---
